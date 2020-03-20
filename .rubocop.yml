@@ -1,0 +1,13 @@
+
+Style/Documentation:
+  Exclude:
+    - '**/*'
+
+Style/HashTransformKeys:
+  Enabled: false
+
+Style/HashTransformValues:
+  Enabled: false
+
+Style/HashEachMethods:
+  Enabled: false
